@@ -12,7 +12,7 @@ setup(
     description="Grid Search for One-Class SVM",
     long_description="A package for grid search with One-Class SVM",
     long_description_content_type="text/markdown",
-    url="https://github.com/Abhijit-Kadalli/One-Class-SVM-Hyperparam-GridSearch/blob/main/README.md",
+    url="https://github.com/Abhijit-Kadalli/One-Class-SVM-Hyperparam-GridSearch/tree/main/pythonPackage",
     packages=find_packages(),
     install_requires=[
         "matplotlib",
