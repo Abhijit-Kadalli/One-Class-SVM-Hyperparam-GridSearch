@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: gridsearch-ocsvm
-Version: 1.0.0
+Version: 0.0.1
 Summary: Grid Search for One-Class SVM
 Home-page: https://github.com/Abhijit-Kadalli/One-Class-SVM-Hyperparam-GridSearch/tree/main/pythonPackage
 Author: Abhijit Kadalli

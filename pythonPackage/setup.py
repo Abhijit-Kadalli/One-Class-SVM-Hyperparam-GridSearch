@@ -6,7 +6,7 @@ with open(os.path.join(os.path.dirname(__file__), "README.md")) as readme:
 
 setup(
     name="gridsearch_ocsvm",
-    version="1.0.0",
+    version="0.0.1",
     author="Abhijit Kadalli",
     author_email="abhijitkadalli14@gmail.com",
     description="Grid Search for One-Class SVM",
@@ -15,16 +15,11 @@ setup(
     url="https://github.com/Abhijit-Kadalli/One-Class-SVM-Hyperparam-GridSearch/tree/main/pythonPackage",
     packages=find_packages(),
     install_requires=[
-        "joblib==1.2.0",
-        "matplotlib==3.5.2",
-        "numpy==1.23.0",
-        "scikit_learn==1.3.1"
+        "joblib>=1.1.0",
+        "matplotlib>=3.5.2",
+        "numpy>=1.23.0",
+        "scikit_learn>=1.3.1"
     ],
-    entry_points={
-        "console_scripts": [
-            "gridsearch-ocsvm=gridsearch_ocsvm.__main__:main",
-        ],
-    },
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

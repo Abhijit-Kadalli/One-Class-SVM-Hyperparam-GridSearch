@@ -1,2 +1,0 @@
-[console_scripts]
-gridsearch-ocsvm = gridsearch_ocsvm.__main__:main
