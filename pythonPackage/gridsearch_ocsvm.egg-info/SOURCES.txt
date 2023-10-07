@@ -1,0 +1,11 @@
+README.md
+license.txt
+setup.py
+Gridsearch-OCSVM/__init__.py
+Gridsearch-OCSVM/gridsearch_ocsvm.py
+gridsearch_ocsvm.egg-info/PKG-INFO
+gridsearch_ocsvm.egg-info/SOURCES.txt
+gridsearch_ocsvm.egg-info/dependency_links.txt
+gridsearch_ocsvm.egg-info/entry_points.txt
+gridsearch_ocsvm.egg-info/requires.txt
+gridsearch_ocsvm.egg-info/top_level.txt

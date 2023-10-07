@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: gridsearch-ocsvm
+Version: 1.0.0
+Summary: Grid Search for One-Class SVM
+Home-page: https://github.com/Abhijit-Kadalli/One-Class-SVM-Hyperparam-GridSearch/tree/main/pythonPackage
+Author: Abhijit Kadalli
+Author-email: abhijitkadalli14@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: license.txt
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: numpy
+Requires-Dist: joblib
+
+A package for grid search with One-Class SVM

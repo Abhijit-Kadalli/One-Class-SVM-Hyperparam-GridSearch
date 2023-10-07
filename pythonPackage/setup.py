@@ -15,10 +15,10 @@ setup(
     url="https://github.com/Abhijit-Kadalli/One-Class-SVM-Hyperparam-GridSearch/tree/main/pythonPackage",
     packages=find_packages(),
     install_requires=[
-        "matplotlib",
-        "scikit-learn",
-        "numpy",
-        "joblib",
+        "joblib==1.2.0",
+        "matplotlib==3.5.2",
+        "numpy==1.23.0",
+        "scikit_learn==1.3.1"
     ],
     entry_points={
         "console_scripts": [
